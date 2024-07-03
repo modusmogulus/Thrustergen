@@ -1,0 +1,11 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "heightmultiplier": "4",
+            "propellantdensity": "1.8",
+            "propellantmass": "3",
+            "wallthickness": "1"
+        }
+    },
+    "fileFormatVersion": "1"
+}
